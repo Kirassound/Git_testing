@@ -1,0 +1,19 @@
+/* Reset básico */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Estilos generales */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+/* Ejemplo de encabezado */
+h1 {
+  text-align: center;
+  color: #0066cc;
+}
