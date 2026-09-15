@@ -12,3 +12,9 @@ De momento mi bitacora esta asi:
 
 -Git branches y buenas practicas : 11/9/2026
 
+-Inicio del curso de paginas web (C.P.W) del M.T; **MODULO_1** "conceptos que vimos: dominios, hosting y constructures(en nuestro caso WordPress)": 15/9/2026
+
+-Refrescamiento de conocimientos del curriculo de TOP y manejo de consola, de las fechas 8-9-11 y vista del **MODULO_2** de C.P.W: 15/9/2026
+
+
+
