@@ -27,3 +27,6 @@ nombre_extension    /   autor
 *Auto Rename Tag        Jun Han 
 
 Sugiero que las investigues si quieres profundizar. FIN **21/9/2026**
+
+
+-Han pasado dos dias desde mi ultima leccion, tenia que hacer unas cosas y bueno TAMOS DE VUELTA BRODEL! , asi que bueno este dia vi lo que era todo lo relacionado a texto en la seccion del body , claro que aun hay otros temas que tratar, pero en resumen hoy vi: parrafos, encabezados , elemento strong y em, el anidamiento de indentacion y comentarios. 24/9/2026
