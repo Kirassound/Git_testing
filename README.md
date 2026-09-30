@@ -46,3 +46,9 @@ No hay tres. Por ahora estoy luchando contra muchas cosas: un bajón económico 
 
 Ah y cierto, me olvide mencionar, hice un menú o algo asi bacanchichimo de un restaurante ficticio en Photoshop 
 Fin 28/09/2026
+
+-Bueno dejo por aquí un pequeño recuento de lo que vimos en estos dos días tanto 29 como 30 de Septiembre del 2026, pues vimos lo que eran commits y buenas prácticas para escribirlos bien y como se debe hacerlo, me falta practicar un poco mas con las herramientas de git porque ahorita paso una cagada que se subió un commit general para varios archivos y antes ya habia configurado sus nombres pero pos como git es medio malcriadito sino le das seguimiento a los commits pues te marca como rojo, pero ajá, cache mas o menos que errores cometí hoy y que cosas no haré con los commits en el futuro y esto es full importante porque son un registro de todo y si algo falla tienes chance de volver a ellos y no pasa naa, pero como dije le estoy cachando aún y bueno también hice mi primer sitio web sobre recetas, y POR FIN, llegué a una leción práctica en el currículo de TOP, me agradó full, me sentí muy cómodo manejando HTML5 y las estructuras de etiquetado se siente como mis primeros pasos en Python, recomendadísisimo que lo prueben panas y pueden ver la página desde aquí:
+
+
+
+29/09/2026- 30/09/2026 
