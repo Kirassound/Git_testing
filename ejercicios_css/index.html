@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicios CSS</title>
+
+<!-- añadiendo css de manera externa, para el DIV-->
+
+<link rel="stylesheet" href="styles.css">
+
+
+<!--CSS INTERNO PARA EL <P> -->
+
+<style>
+    p {
+        background-color: green;
+        color: white;
+        font-size: 18px;
+
+    }
+
+</style>
+
+
+</head>
+<body>
+
+<!-- CSS EXTERNO -->
+<!--ESTILIZACIÓN DEL DIV, FONDO ROJO, TEXTO BLANCO, FUENTE A 32 PX-->
+<div> ESTO ES UN DIV, EN CSS EXTERNO y en negrita </div>
+
+
+<!--CSS INTERNO-->
+<!-- ESTILIZACIÓN DEL P, FONDO VERDE, TEXTO BLANCO, FUENTE A 18 PX-->
+<p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus perferendis, repellendus nostrum molestias cupiditate amet. Rerum, delectus magni voluptates eius nobis tenetur? Quidem quae vero, id neque accusantium molestias corporis? </p>
+
+
+<!-- CSS EN LÍNEA , este se agrega directamente en el elemento en este caso es un "button" -->
+<!-- ESTILIZACIÓN DEL BUTTON, FONDO NARANJA Y FUENTE A 18 PX-->
+
+<button style="background: orange; font-size: 18px;"> DA CLICK AQUÍ</button>
+
+
+
+<!--Este div sirve para dividir el link estilizado con css en línea-->
+<div></div>
+
+
+<a href="https://open.spotify.com/playlist/7yEFZLpZ2c7KSMvQOGiFrm?si=3rX0ExiaTwWbyKlrS-ACfg" target="_blank" rel="noreferrer"
+ style="background-color: orangered; font-size: 18px; text-align: center;">Este es un "botón" que te llevará a la playlist con la que se hizo esta web</a>
+<p>Además es curioso lo que acabo de descubrir, la etiqueta button no soporta al atributo href, por lo cual al intentar ponerle un link directo a mi playlsit no se pudo abrir,
+    lo cual me llevó a investigar un poco más, y bueno si se puede hacer mediante es método que estoy documentando en este párarrafo, y con JS, pero eso creo que será para mas adelante cuando 
+    tenga pleno y este aprendiendo JS con el currículo de TOP. 
+</p>
+
+
+</body>
+</html>
