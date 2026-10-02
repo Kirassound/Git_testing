@@ -52,3 +52,22 @@ Fin 28/09/2026
 https://kirassound.github.io/Odin_Recipes/
 
 29/09/2026- 30/09/2026 
+
+
+Ayer me tomé un día libre porque necesitaba descansar y despejarme un poco, pero hoy ya estoy ready para seguir con el currículo y meterle ñeque.
+
+Hoy tocó la lección de Intro to CSS y el primer ejercicio práctico de métodos para agregar estilos. La idea era probar los tres caminos: externo, interno y en línea. Y pues sí, lo logré:
+
+El <div> lo estilizamos con CSS externo desde el archivo styles.css (fondo rojo, texto blanco, fuente 32px, centrado y en negrita).
+
+El <p> lo estilizamos con CSS interno dentro del <style> del head (fondo verde, texto blanco, fuente 18px).
+
+El <button> lo estilizamos con CSS en línea (fondo naranja, fuente 18px).
+
+Me salió bacán, aunque me confundí un chance porque le puse un href al botón pensando que iba a abrir un link de Spotify, pero caché que el href solo funciona con el elemento <a> (anchor). El botón sirve más para acciones internas o con JavaScript, así que ahí aprendí la diferencia.
+
+El ejercicio está en el repo de aquí para que lo puedan ver es el que dice ejercicios_css
+
+En resumen, hoy reforcé cómo se enlaza un archivo CSS externo desde el <head>, por qué es importante separar estilos del HTML, y cómo se aplican las reglas con selectores de tipo. También entendí mejor la diferencia entre clase e ID, y que el anchor es el único que maneja links de verdad.
+
+Fin 02/10/2026
