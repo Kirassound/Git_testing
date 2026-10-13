@@ -1,7 +1,88 @@
+/* estilos aplicados al primer ejercicio*/
+
 div{
 background-color: red;
 color:white;
 font-size: 32px;
 font-weight: bold;
 text-align: center;
+} 
+
+/* estilos aplicados al segundo ejercicio */
+
+.impar{
+    background-color: rosybrown;
+    font-family: helvetica;
+}
+
+.especial{
+    background-color: rosybrown;
+    font-size: 24px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial;
+
+
+    
+}
+
+#pares{
+    color: blue;
+    font-size: 36px;
+}
+
+#par{
+    background-color: green;
+    font-size: 24px;
+    font-weight: bold;
+} 
+
+/*estilos aplicados al ejercicio 3*/
+
+.elementoA{
+    background-color: black;
+    color: white;
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.elementoB{
+    background-color: yellow;
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* estilos aplicados al ejercicio 4*/
+
+.avatar.proportioned{
+    width: 100px;
+    
+}
+
+.distored{
+    width: 100px;
+    height: 200px;
+}
+
+/* estilos a elemento 5*/
+
+div p{
+    color: red;
+    background-color: yellow;
+    font-size: 20px;
+}
+
+/*estilos de pagina de inicio*/
+
+.ejemplo{
+    color: red;
+}
+
+.ejemplo{
+    color: yellow;
+}
+
+/*indexación de estilos en páginas con un botón*/
+.confirmar{
+    background-color: green;
+    color: white;
+    font-weight: bold;
 }
